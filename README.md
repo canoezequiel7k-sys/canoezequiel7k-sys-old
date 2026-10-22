@@ -31,7 +31,7 @@ Ezequiel Cano
 ## Snake game con unas contribuciones:
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
-## Tecnológica y herramientas que manejo
+## Tecnológica y herramientas
 
 
 ### Lenguajes;
