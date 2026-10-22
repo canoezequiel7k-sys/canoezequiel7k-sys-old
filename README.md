@@ -1,5 +1,5 @@
 <h1 align="center">
-Ezequiel Ariel Cano
+Ezequiel Cano
 
   
   <h2 align="center">
